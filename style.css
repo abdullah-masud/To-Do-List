@@ -1,0 +1,46 @@
+body {
+    background-color: #1E8293;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin-top: 100px;
+    text-align: center;
+}
+
+#inputField {
+    height: 50px;
+    width: 500px;
+    outline: 1px solid black;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+#enterBtn {
+    margin: 20px;
+    height: 30px;
+    width: 60px;  
+    outline: 1px solid black;  
+}
+
+#enterBtn:hover {
+    background-color: powderblue;
+}
+
+.enterBtn {
+    margin-right: 449px;
+}
+
+.to-dos {
+    margin-top: -50px;
+    margin-left: 370px;
+}
+
+.paragraph-styling {
+    margin: 0px;
+    font-size: 20px;
+    font-family: sans-serif;
+    cursor: grab;
+
+}
